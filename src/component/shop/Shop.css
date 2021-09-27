@@ -1,0 +1,10 @@
+.product-contaier{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.order-summery{
+    border-left:1px solid gray ;
+}
+.shop-design{
+    margin-left:200px ;
+}
